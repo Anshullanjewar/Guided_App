@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item android:id="@+id/change_name"
+            android:title=" Name"/>
+
+        <item android:id="@+id/change_bio"
+            android:title=" About"/>
+
+        <item android:id="@+id/change_price"
+            android:title=" Price"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/profile_pic"
+            android:title="Profile Image"/>
+
+        <item android:id="@+id/cover_pic"
+            android:title="Cover Image"/>
+
+    </group>
+
+    <item android:id="@+id/logOut"
+        android:title="Logout"/>
+
+</menu>
