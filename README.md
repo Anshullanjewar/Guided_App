@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://postimg.cc/gallery/TnCYq9P)
 
 GUIDED is an Android application that connects users seeking guidance with qualified individuals. 
 
