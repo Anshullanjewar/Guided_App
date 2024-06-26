@@ -3,11 +3,8 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+[![Portfolio][linkedin-shield]][portfolio-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -16,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/Anshullanjewar/Guided_App/blob/master/img/guidedimg.jpg" alt="Logo" width="100" height="80">
+    <img src="https://github.com/Anshullanjewar/Guided_App/blob/master/img/guidedimg.jpg" alt="Logo" width="300" height="150">
   </a>
 
   <h3 align="center">GUIDED</h3>
@@ -141,10 +138,8 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Anshullanjewar/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Anshullanjewar/Guided_App/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Anshullanjewar/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/Anshullanjewar/Guided_App/forks
+[Portfolio-shield]: https://img.shields.io/github/contributors/Anshullanjewar/Best-README-Template.svg?style=for-the-badge
+[portfolio-url]: https://anshullanjewar.github.io/
 [stars-shield]: https://img.shields.io/github/stars/Anshullanjewar/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/Anshullanjewar/Guided_App/issues
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -153,7 +148,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]:https://github.com/Anshullanjewar/Guided_App/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/anshul-lanjewar
-[product-screenshot]: https://postimg.cc/gallery/TnCYq9P
 [Java_url]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [firebase_url]: https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34
 [android_url]: https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white
