@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Anshullanjewar/Guided_App">
-    <img src="https://github.com/Anshullanjewar/Guided_App/blob/master/img/guidedimg.jpg" alt="Logo" width="300" height="150">
+    <img src="https://github.com/Anshullanjewar/Guided_App/blob/master/img/guidedimg.jpg" alt="Logo" width="1080" height="720">
   </a>
 
   <h3 align="center">GUIDED</h3>
